@@ -1,3 +1,4 @@
 ====================Sistema de Login ====================
 Digite seu nome de usuário:
 Digite sua senha:
+Digite seu e-mail:
